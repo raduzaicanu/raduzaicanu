@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on .[something].
+- 🌱 I’m currently learning .[something].
+- 👯 I’m looking to collaborate on .[any project].
+- 🤔 I’m looking for help with .[everything].
+- 💬 Ask me about .[everything].
+- 📫 How to reach me: .[raduzaicanu@gmail.com].
+- ⚡ Fun fact: .[open].
+
 <!--
 **raduzaicanu/raduzaicanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
